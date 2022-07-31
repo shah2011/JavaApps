@@ -14,8 +14,7 @@ public class Assignment1Q3
 					i==n-1 || 
 					j==n-1 ||
 					i+j<=(n-1)/2 ||
-					j-i>=(n-1)/2
-					)
+					j-i>=(n-1)/2 )
 					System.out.print("*");
 				else
 					System.out.print(" ");
